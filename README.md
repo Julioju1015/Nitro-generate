@@ -1,0 +1,2 @@
+# Nitro-generate
+private
